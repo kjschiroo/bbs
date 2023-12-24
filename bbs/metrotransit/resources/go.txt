@@ -1,0 +1,16 @@
+        GGGGGGGGGGGGG     OOOOOOOOO      !!! 
+     GGG::::::::::::G   OO:::::::::OO   !!:!!
+   GG:::::::::::::::G OO:::::::::::::OO !:::!
+  G:::::GGGGGGGG::::GO:::::::OOO:::::::O!:::!
+ G:::::G       GGGGGGO::::::O   O::::::O!:::!
+G:::::G              O:::::O     O:::::O!:::!
+G:::::G              O:::::O     O:::::O!:::!
+G:::::G    GGGGGGGGGGO:::::O     O:::::O!:::!
+G:::::G    G::::::::GO:::::O     O:::::O!:::!
+G:::::G    GGGGG::::GO:::::O     O:::::O!:::!
+G:::::G        G::::GO:::::O     O:::::O!!:!!
+ G:::::G       G::::GO::::::O   O::::::O !!! 
+  G:::::GGGGGGGG::::GO:::::::OOO:::::::O     
+   GG:::::::::::::::G OO:::::::::::::OO  !!! 
+     GGG::::::GGG:::G   OO:::::::::OO   !!:!!
+        GGGGGG   GGGG     OOOOOOOOO      !!! 
