@@ -9,6 +9,11 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 playwright = "^1.40.0"
+boto3 = "^1.34.9"
+pandas = "^2.1.4"
+jupyter = "^1.0.0"
+matplotlib = "^3.8.2"
+shapely = "^2.0.2"
 
 
 [build-system]
@@ -17,3 +22,5 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
 metrotransit = "bbs.metrotransit:main"
+snowplow-comp = "bbs.snowplows.compile:main"
+realestate-comp = "bbs.realestate.compile:main"

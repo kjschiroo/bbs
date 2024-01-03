@@ -17,6 +17,7 @@ def get_departures(headless=True):
         page.wait_for_selector(".depart-time", state="attached")
         departures = page.query_selector_all(".depart-time")
         times = [d.text_content() for d in departures]
+        headless or input("Press enter to continue...")
         return [int(t.split(" ")[0]) for t in times if "Min" in t]
 
 
